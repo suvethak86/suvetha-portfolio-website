@@ -1,5 +1,5 @@
 <h1 align="center">Suvetha Portfolio Website</h1>
-<h3 align="center">It is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.</h3>
+<h3 align="center">It is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS,Bootstrap and JavaScript.</h3>
 
 
 - 👨‍💻 My projects is available at [https://suvethak86.github.io/suvetha-portfolio-website/](https://suvethak86.github.io/suvetha-portfolio-website/)
